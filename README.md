@@ -55,11 +55,11 @@ Nosso fluxo segue a lógica de Scrum:
 ### Como faço para entrar na equipe?
 
 1. Escolha um projeto público da Kalify
-2. Faça uma melhoria ou correção - escolha uma issue (disponível em https://github.com/orgs/Kalify-Inc/projects/1/views/1) que não esteja assinada
+2. Faça uma melhoria ou correção - escolha uma issue (disponível em [projects](https://github.com/orgs/Kalify-Inc/projects/1/views/1)) que não esteja assinada.
 3. Envie um Pull Request
 4. Aguarde aprovação.
 5. Informe através do Discord ou WhatsApp sobre o PR.
-6. A issue será assinada e aprovada.
+6. A issue se aprovada, será assinada.
 
 Se aprovado, você será convidado a integrar o time com acesso ao repositório, ao board de tarefas, e ao nosso ambiente colaborativo. `@yagasaki` entrará em contato com você diretamente.
 
