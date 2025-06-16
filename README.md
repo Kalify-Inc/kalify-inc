@@ -8,7 +8,7 @@ Nosso objetivo é ajudar desenvolvedores — de iniciantes a experientes — a *
 
 ### Como funciona?
 
-Se você tem dúvidas sobre carreira, precisa de ajuda com código, ou está travado em algum problema técnico, a **Kalify está aqui para te apoiar**. Basta nos chamar no [WhatsApp](#) ou entrar no nosso servidor do [Discord]().
+Se você tem dúvidas sobre carreira, precisa de ajuda com código, ou está travado em algum problema técnico, a **Kalify está aqui para te apoiar**. Basta nos chamar no [WhatsApp](https://chat.whatsapp.com/ESgYKVgH8KZ5U5lHLvv8j0) ou entrar no nosso servidor do [Discord](https://discord.gg/jhSepmE7nN).
 
 ---
 
