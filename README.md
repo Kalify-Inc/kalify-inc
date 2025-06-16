@@ -58,6 +58,8 @@ Nosso fluxo segue a lógica de Scrum:
 2. Faça uma melhoria ou correção - escolha uma issue (disponível em https://github.com/orgs/Kalify-Inc/projects/1/views/1) que não esteja assinada
 3. Envie um Pull Request
 4. Aguarde aprovação.
+5. Informe através do Discord ou WhatsApp sobre o PR.
+6. A issue será assinada e aprovada.
 
 Se aprovado, você será convidado a integrar o time com acesso ao repositório, ao board de tarefas, e ao nosso ambiente colaborativo. `@yagasaki` entrará em contato com você diretamente.
 
